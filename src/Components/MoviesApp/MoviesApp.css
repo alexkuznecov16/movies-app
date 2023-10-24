@@ -117,6 +117,11 @@ a.Movies-item-title {
     right: 10px;
     font-size: 25px;
     cursor: pointer;
+    transition: 0.3s linear;
+    color: red;
+}
+.close:hover {
+    color: aquamarine;
 }
 
 .Movies__images {
